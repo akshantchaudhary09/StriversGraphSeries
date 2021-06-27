@@ -1,3 +1,6 @@
+// TC - O((n-1)*(E)) and SC - O(N)
+
+
 #include<bits/stdc++.h>
 using namespace std;
 struct node {
