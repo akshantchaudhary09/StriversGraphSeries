@@ -1,3 +1,6 @@
+// TC - O(N+E)*2 ans SC - O(N)+O(N)
+
+
 #include <bits/stdc++.h> 
 #define INF INT_MAX 
 using namespace std; 
