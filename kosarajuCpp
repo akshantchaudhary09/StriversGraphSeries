@@ -1,3 +1,5 @@
+TC - O(N+E) and SC - O(N+E){for adjacney list} + O(N){for stack} + O(N){for vis}
+
 #include <bits/stdc++.h>
 using namespace std;
 void dfs(int node, stack<int> &st, vector<int> &vis, vector<int> adj[]) {
