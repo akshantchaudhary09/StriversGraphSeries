@@ -1,3 +1,5 @@
+// TC - o(V+E) and SC - o(height or depth of graph) 
+
 #include<bits/stdc++.h>
 using namespace std;
 
