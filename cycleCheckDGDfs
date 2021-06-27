@@ -1,3 +1,5 @@
+// TC - O(N+E) SC - O(N){for vis} + O(N){for dfsvis} + O(N){function call stack}
+
 #include<bits/stdc++.h>
 using namespace std;
 
